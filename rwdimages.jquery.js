@@ -1,4 +1,3 @@
-
 (function($) {
 	$.fn.responsive = function( options ) {
 		
@@ -32,7 +31,7 @@
 					$('.rwdimg-replace').load(function(){
 						$('.rwdimg-replace').hide().css({visibility: "visible"}).fadeIn("slow");
 					});
-				} // end if
+				}
 			
 			});
 		}
