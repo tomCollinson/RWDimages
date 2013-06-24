@@ -1,7 +1,7 @@
 RWDimages
 =========
 
-A jQuery plugin to switch images based on the browser window size.
+A jQuery responsive image plugin to switch images based on the browser window size.
 
 This is an MVP in that it works as v.0.1 but has much room for improvement.
 
