@@ -1,4 +1,4 @@
-RWDimages
+jQuery Responsive Images
 =========
 
 A jQuery responsive image plugin to switch images based on the browser window size.
